@@ -1,8 +1,8 @@
-# Web & DB servers on AWS in two separate enviornments
+# Web & DB servers on AWS in two separate environments
 
 ## About The Project
 
-The project provides two enviornments hosted in AWS, managed by terraform with terragrunt. Enviornments are split into QA and Prod. Main differences between those enviornments are instance types and the number of web server instances.
+The project provides two environments hosted in AWS, managed by terraform with terragrunt. Enviornments are split into QA and Prod. Main differences between those enviornments are instance types and the number of web server instances.
 
 |  |QA|Prod|
 |------|-----|-----|
