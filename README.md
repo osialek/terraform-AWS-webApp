@@ -122,7 +122,7 @@ How to set up the project locally.
 
 ## Notes
 
-- Deployed web and db servers are empty imaged running latest Ubuntu 22.04 image
+- Deployed web and db servers are running an empty Ubuntu 22.04 latest image
 - No dependencies or services are being installed within this configuration
-- Further work need to be done
+- Further work needs to be done to provision we app/services
 - This is just a base for hosting a simple web application
