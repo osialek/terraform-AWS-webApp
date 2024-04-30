@@ -34,7 +34,7 @@ All these parameters can be modified within the enviornment *terragrunt.hcl* con
 └── README.md
 ```
 
-Environments are separated with AWS Profiles. Different accounts are set for both environments, what is configured with the AWS CLI profiles and used accordingly in the Terragrunt config files. However, the enviornments can be split with regions. You can use the same AWS account in AWS and split environment with target region in provider configuration.
+Environments are separated with AWS Profiles. Different accounts are set for both environments, what is configured with the AWS CLI profiles and used accordingly in the Terragrunt config files. However, the enviornments can be also split with regions... You can use the same AWS account and split environments with target region in provider configuration.
 
 ### Built With
 
