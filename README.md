@@ -46,9 +46,9 @@ Environments are separated with AWS Profiles. Different accounts are set for bot
 
 Architecture is different per module.
 
-**app-with-external-modules:** This module provides a highly available (2 AZs and auto scalling group) deployment with the use of external modules.
+**app-with-external-modules:** This module provides a highly available (2 AZs and auto scalling group) deployment with the use of external child modules.
 
-**app-custom-module:** This module deployes the infrastructure in a single AZ without the auto scalling group.
+**app-custom-module:** This module deployes the infrastructure in a single AZ without the auto scalling group and with no use of the external modules..
 
 ### app-with-external-modules
 
